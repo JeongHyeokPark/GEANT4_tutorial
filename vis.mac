@@ -24,15 +24,10 @@
 /vis/set/lineWidth
 
 /vis/geometry/set/visibility World 0 false
-/vis/geometry/set/colour NE213Tub 1 1 0 0 0.8
-/vis/geometry/set/colour PyrexBox 1 0 1 0 0.2
 
 #/vis/viewer/set/style surface
 /vis/viewer/set/hiddenMarker true
 /vis/viewer/set/viewpointThetaPhi 100 160
 /vis/viewer/set/autoRefresh true
-
-#/vis/viewer/set/targetPoint 0 0 1200 cm
-#/vis/viewer/zoom 8
 
 /vis/verbose warnings
