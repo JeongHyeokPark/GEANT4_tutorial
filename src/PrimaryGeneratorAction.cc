@@ -1,7 +1,5 @@
 #include "PrimaryGeneratorAction.hh"
 
-#include "G4LogicalVolumeStore.hh"
-#include "G4LogicalVolume.hh"
 #include "G4ThreeVector.hh"
 #include "G4RunManager.hh"
 #include "G4ParticleGun.hh"
