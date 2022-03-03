@@ -8,6 +8,7 @@
 RunAction::RunAction()
 :G4UserRunAction()
 {
+  tutorial_mode = true;
 }
 
 RunAction::~RunAction()
